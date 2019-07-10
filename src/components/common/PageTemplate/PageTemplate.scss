@@ -1,0 +1,10 @@
+@import 'styles/utils.scss';
+
+// Header height + Footer height = 15rem
+// Minimum height of middle area = 100vh - 15rem
+.page-template {
+  main {
+    background: $oc-gray-1;
+    min-height: calc(100vh - 15rem);
+  }  
+}
