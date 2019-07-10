@@ -1,1 +1,1 @@
-"# blogj2" 
+Blog application - Frontend
